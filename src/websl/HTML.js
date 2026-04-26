@@ -1,5 +1,6 @@
 /** 
  * Copyright (C) 2026 Hazl, Metasys, Metacog, Metalang, Cyberethos humanitarian project.
+ * 
  * This script provides a working implementation of HTML, as a primary domain for meta-javascript.
  * Note: this is a working prototype, unstable version, and may change at any time. 
 */
