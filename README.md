@@ -1,5 +1,5 @@
-# Aa
-(Meta), Grammar-based programming.
+# ^m
+Meta (^m) + JavaScript Prototype Language
 
 Welcome to the implementation and on-going research of __Metasys/Metalang__ in __JavaScript.__
 
